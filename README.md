@@ -7,3 +7,4 @@ fitur yang ada didalam website:
 3. tempat UMKM.
 4. kulineran.
 5. portal berita.
+6. ada goglemap langsung kelokasi.
